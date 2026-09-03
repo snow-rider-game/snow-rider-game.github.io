@@ -1,0 +1,256 @@
+[
+  {
+    "slug": "snow-rider-3d",
+    "title": "Snow Rider 3D",
+    "genre": "Racing",
+    "tags": ["Racing", "Sledding", "Christmas", "Single Player"],
+    "gameDir": "",
+    "indexFile": "",
+    "embedUrl": "https://azgames.io/snow-rider-3d.embed",
+    "domain": "",
+    "colors": {
+      "accent": "#38bdf8",
+      "accent2": "#f43f5e"
+    },
+    "cardGradient": ["#0284c7", "#dc2626"],
+    "initial": "SNR",
+    "image": "snow-rider-3d.png",
+    "seo": {
+      "metaDescription": "Play Snow Rider 3D online for free. Race a snowmobile down icy mountain slopes, dodge giant snowmen and rolling snowballs, and collect Christmas gifts.",
+      "ogImage": ""
+    },
+    "rating": {
+      "value": 4.2,
+      "count": 459000
+    },
+    "released": "",
+    "controls": "Arrow Keys / WASD / Space",
+    "about": "Snow Rider 3D drops you onto a snow-capped mountain on a snowmobile that never stops moving. Weave between pine trees, rolling snowballs, and giant snowmen while collecting Christmas gifts along the way — every gift you grab goes toward unlocking a new snowmobile with its own look and feel. The run keeps speeding up the longer you last, so a course you handled easily a minute ago can turn into a tight squeeze between obstacles without warning.",
+    "howto": [
+      "Steer with the arrow keys or A/D — on mobile, tilt your device to lean the snowmobile left or right.",
+      "Press Space (or tap the screen on mobile) to jump over logs, gaps, and low obstacles.",
+      "Grab Christmas gift boxes as you ride — they unlock new snowmobiles to race with.",
+      "Avoid trees, rolling snowballs, and giant snowmen; one hit ends the run.",
+      "Try Time Trial mode for a straight race against the clock, or Freestyle to land stunts."
+    ],
+    "faq": [
+      {
+        "q": "Is Snow Rider 3D free to play?",
+        "a": "Yes — Snow Rider 3D runs in your browser for free, with no download, install, or account needed."
+      },
+      {
+        "q": "Does Snow Rider 3D work on mobile?",
+        "a": "Yes. On phones and tablets you steer by tilting the device and tap the screen to jump."
+      },
+      {
+        "q": "How many snowmobiles can I unlock in Snow Rider 3D?",
+        "a": "There are 10 different snowmobiles, each with its own look, unlocked by collecting gift boxes as you ride."
+      },
+      {
+        "q": "How do I get better at Snow Rider 3D?",
+        "a": "Stay near the center of the track for the best reaction time, and prioritize dodging over chasing every gift once the speed picks up."
+      }
+    ],
+    "richContent": "<h2>Snow Rider 3D – Play Online for Free</h2><p>Snow Rider 3D puts you on a snowmobile that never brakes, racing down a mountain covered in snow, spike-cold obstacles, and scattered Christmas gifts. The idea is easy to pick up in seconds: steer around anything in your way, jump when you need to, and see how far your reflexes can carry you before a giant snowman ends the run.</p><h3>What Is Snow Rider 3D?</h3><p>Snow Rider 3D is a fast, festive sledding game set across snow-capped mountains, pine forests, and icy trails. Your snowmobile moves forward on its own, so the whole game comes down to timing — when to cut left, when to cut right, and when to hit the jump button before an obstacle is on top of you.</p><p>The course throws a steady stream of hazards at you: trees packed close together, rolling snowballs picking up speed, and oversized snowmen standing right in your lane. None of them forgive a late reaction, so staying alert matters more than reacting fast to any single obstacle.</p><h3>How to Play Snow Rider 3D</h3><p>On a computer, steer with the arrow keys or A/D, and press Space to jump. On a phone or tablet, tilt the device to lean your snowmobile left or right, and tap the screen to jump over anything low enough to clear.</p><p>Along the way, ride through as many Christmas gift boxes as you can reach safely. Every gift adds toward unlocking one of the ten snowmobiles in the game, each with a different design. Grabbing gifts is optional, though — if a gift sits right next to a tree, it's usually smarter to skip it and stay alive.</p><h3>Why People Keep Playing Snow Rider 3D</h3><p>The appeal is the same reason endless runners in general keep people hooked: the course never repeats exactly the same way twice, and the difficulty ramps up gradually enough that improvement feels constant. A run that lasted ten seconds on your first try can stretch into a full minute once you've learned to read the obstacles coming at you instead of just reacting to what's already close.</p><p>Snow Rider 3D also gives you two ways to play beyond the standard endless run: a Time Trial mode for players who want a clean race against the clock, and a Freestyle mode built around pulling off stunts rather than just surviving.</p><h3>Tips for Playing Snow Rider 3D</h3><ul><li><strong>Stay centered.</strong> Riding down the middle of the track gives you the most room to react in either direction.</li><li><strong>Look past the next obstacle.</strong> Watching only what's directly ahead leaves you no time to plan the following move.</li><li><strong>Don't chase every gift.</strong> A gift box tucked next to a tree or a snowball isn't worth the risk once the speed picks up.</li><li><strong>Learn the jump timing.</strong> Jumping a beat too early or too late over a log is almost as bad as not jumping at all.</li></ul><h3>Play Snow Rider 3D Online</h3><p>Ready to hit the slopes? Jump into Snow Rider 3D, unlock a new snowmobile, and see how far down the mountain you can get before the snow gets the better of you.</p><h3>Frequently Asked Questions</h3><details><summary>What is Snow Rider 3D?</summary><p>Snow Rider 3D is a browser-based sledding game where you steer a snowmobile down an endless snowy mountain, dodging obstacles and collecting gifts.</p></details><details><summary>Is Snow Rider 3D hard?</summary><p>The controls are simple, but the course speeds up the longer you survive, so later stretches demand faster reactions than the opening seconds.</p></details><details><summary>Can I play Snow Rider 3D on my phone?</summary><p>Yes — tilt your device to steer and tap the screen to jump.</p></details>"
+  },
+  {
+    "slug": "snow-road",
+    "title": "Snow Road",
+    "genre": "Racing",
+    "tags": ["Racing", "Sledding", "Endless Runner", "Single Player"],
+    "gameDir": "",
+    "indexFile": "",
+    "embedUrl": "https://azgames.io/snow-road.embed",
+    "domain": "",
+    "colors": {
+      "accent": "#60a5fa",
+      "accent2": "#c084fc"
+    },
+    "cardGradient": ["#2563eb", "#7c3aed"],
+    "initial": "SRD",
+    "image": "snow-road.png",
+    "seo": {
+      "metaDescription": "Play Snow Road online for free. Steer a sled down a pixelated icy road, dodge snowballs and gaps, and collect gift boxes to unlock new sleds.",
+      "ogImage": ""
+    },
+    "rating": {
+      "value": 4.1,
+      "count": 3550
+    },
+    "released": "",
+    "controls": "Arrow Keys / Space",
+    "about": "Snow Road puts you on a sled with no brakes on a pixel-art icy road that never stops moving. Steer left and right to dodge trees, rolling snowballs, rocks, and wide gaps, jump when a hazard is too close to steer around, and collect gift boxes along the way to unlock new sleds. The course changes on every run, and the pace only builds the longer you survive.",
+    "howto": [
+      "Press Space or click to launch your sled down the road.",
+      "Use the left/right arrow keys to steer around obstacles.",
+      "Press the up arrow key to jump over hazards you can't steer past.",
+      "Collect gift boxes to unlock new sled designs.",
+      "Survive as long as you can — the pace keeps climbing the farther you get."
+    ],
+    "faq": [
+      {
+        "q": "Is Snow Road free to play?",
+        "a": "Yes — Snow Road runs in your browser for free, with no download, install, or account needed."
+      },
+      {
+        "q": "Does Snow Road work on mobile?",
+        "a": "Yes. The game responds to taps as well as arrow-key input, so it plays on phones and tablets as well as desktop."
+      },
+      {
+        "q": "How do I get better at Snow Road?",
+        "a": "Stay near the center of the road for the widest field of view, and skip hard-to-reach gift boxes once the sled starts moving fast."
+      }
+    ],
+    "richContent": "<h2>Snow Road – Play Online for Free</h2><p>Snow Road is a pixel-styled winter racer built around one simple rule: your sled never stops. The moment the run begins, you're gliding down an icy road at full speed, and every obstacle between you and the next stretch of clear path is yours to dodge, jump, or crash into.</p><h3>What Is Snow Road?</h3><p>Snow Road is an endless sled-driving game set on a snowy, ever-changing road. There's no braking and no slowing down — your only tools are steering and jumping, and the course throws trees, rolling snowballs, rocks, snowmen, and wide gaps into your path without warning.</p><p>The 3D pixelated visual style gives the game a distinct arcade look, but the core challenge is pure reflex: recognize what's coming, decide whether to steer around it or jump over it, and commit before it's too late.</p><h3>How to Play Snow Road</h3><p>Start the run with a click or the Space bar. From there, use the left and right arrow keys to steer your sled and the up arrow key to jump over anything you can't dodge sideways.</p><p>Gift boxes are scattered along the road — riding through them builds toward unlocking new sled designs. They're worth grabbing when they're in your path already, but chasing one that's tucked next to an obstacle is rarely worth the risk.</p><h3>Tips for Playing Snow Road</h3><ul><li><strong>Look ahead, not down.</strong> Watching the terrain coming up gives you time to decide between steering and jumping.</li><li><strong>Stay centered.</strong> A sled near the middle of the road has room to react in either direction.</li><li><strong>Skip risky gifts.</strong> If a gift box sits right next to an obstacle, going for it usually isn't worth ending the run.</li><li><strong>Expect the pace to climb.</strong> The road gets faster the longer you survive, so build up your reaction speed gradually instead of assuming the opening pace will hold.</li></ul><h3>Play Snow Road Online</h3><p>Ready for a run with no brakes and no second chances? Hop on your sled, steer through the chaos, and see how far down Snow Road you can get.</p>"
+  },
+  {
+    "slug": "snow-road-3d",
+    "title": "Snow Road 3D",
+    "genre": "Racing",
+    "tags": ["Racing", "Sledding", "Stunts", "Single Player"],
+    "gameDir": "",
+    "indexFile": "",
+    "embedUrl": "https://azgames.io/snow-road-3d.embed",
+    "domain": "",
+    "colors": {
+      "accent": "#22d3ee",
+      "accent2": "#6366f1"
+    },
+    "cardGradient": ["#0891b2", "#4f46e5"],
+    "initial": "SR3",
+    "image": "snow-road-3d.png",
+    "seo": {
+      "metaDescription": "Play Snow Road 3D online for free. Speed through icy tracks, dodge obstacles, and pull off stunts in this fast-paced 3D snow racing game.",
+      "ogImage": ""
+    },
+    "rating": {
+      "value": 4.1,
+      "count": 4530
+    },
+    "released": "",
+    "controls": "Arrow Keys / WASD",
+    "about": "Snow Road 3D takes the endless-sled formula and turns up the racing side of it. You speed down icy 3D tracks lined with jumps, ramps, and obstacles, aiming for both distance and style as you pull off stunts in mid-air. Every second on the track pushes the pace a little further, so clean lines matter as much as fast reflexes.",
+    "howto": [
+      "Steer left and right with the arrow keys or A/D to stay on the icy track.",
+      "Hit ramps at speed to launch into the air and pull off stunts.",
+      "Dodge rocks, gaps, and other obstacles lining the route.",
+      "Keep your speed up — momentum carries you further between hazards.",
+      "Chain clean runs together to beat your best distance."
+    ],
+    "faq": [
+      {
+        "q": "Is Snow Road 3D free to play?",
+        "a": "Yes — Snow Road 3D runs in your browser for free, with no download, install, or account needed."
+      },
+      {
+        "q": "Does Snow Road 3D work on mobile?",
+        "a": "Yes. The game responds to taps as well as arrow-key input, so it plays on phones and tablets as well as desktop."
+      },
+      {
+        "q": "How do I get better at Snow Road 3D?",
+        "a": "Focus on smooth, small steering corrections rather than sharp last-second turns — the track punishes overcorrecting more than it punishes a slightly wide line."
+      }
+    ],
+    "richContent": "<h2>Snow Road 3D – Play Online for Free</h2><p>Snow Road 3D takes the icy-road racing formula into full 3D, sending you down snowy tracks packed with jumps, ramps, and obstacles at high speed. It's the kind of game where a clean run feels great and a single bad turn can end things instantly — which is exactly what keeps people going back for another attempt.</p><h3>What Is Snow Road 3D?</h3><p>Snow Road 3D is a fast-paced 3D racing game set on icy mountain tracks. You control a sled or snow vehicle that's constantly moving forward, weaving between obstacles while looking for ramps to launch off and pull daring stunts in the air.</p><p>Unlike a slower, careful racer, this game rewards commitment. Hesitating mid-turn or slowing your reactions down usually costs you more than a slightly aggressive line through a tight section.</p><h3>How to Play Snow Road 3D</h3><p>Use the arrow keys or A/D to steer your vehicle left and right across the track. Ramps built into the course let you launch into the air — timing your approach right can turn a jump into a stunt opportunity instead of just an obstacle to clear.</p><p>Rocks, gaps, and narrow passages show up regularly, so the track is never quite predictable enough to run on autopilot. Staying focused on what's ahead, rather than what you just passed, is the difference between a short run and a long one.</p><h3>Tips for Playing Snow Road 3D</h3><ul><li><strong>Make small corrections.</strong> Oversteering at speed is often worse than taking a slightly wide line through a turn.</li><li><strong>Use ramps deliberately.</strong> Hitting a jump at the right angle sets up a cleaner landing than flying into one blind.</li><li><strong>Keep momentum going.</strong> A steady pace through easy stretches makes the harder sections easier to react to.</li></ul><h3>Play Snow Road 3D Online</h3><p>Ready to race down the mountain? Jump into Snow Road 3D, chase ramps for style points, and see how far your sled can carry you.</p>"
+  },
+  {
+    "slug": "slope-rider",
+    "title": "Slope Rider",
+    "genre": "Racing",
+    "tags": ["Racing", "Sledding", "Endless Runner", "Single Player"],
+    "gameDir": "",
+    "indexFile": "",
+    "embedUrl": "https://azgames.io/slope-rider.embed",
+    "domain": "",
+    "colors": {
+      "accent": "#67e8f9",
+      "accent2": "#4ade80"
+    },
+    "cardGradient": ["#0e7490", "#16a34a"],
+    "initial": "SLR",
+    "image": "slope-rider.png",
+    "seo": {
+      "metaDescription": "Play Slope Rider online for free. Steer your sled through snowy forests and icy slopes, dodge pine trees and rolling snowballs, and score as high as you can.",
+      "ogImage": ""
+    },
+    "rating": {
+      "value": 4.3,
+      "count": 15700
+    },
+    "released": "",
+    "controls": "Arrow Keys",
+    "about": "Slope Rider sends you racing through a winter wonderland on a sled that can't be stopped or slowed down. Steer left and right through snowy forests and icy terrain, dodging pine trees, rolling snowballs, and ice-capped boulders while grabbing gift boxes to unlock new sleds. There's no finish line — just an ever-changing slope and a score that keeps climbing for as long as you can stay alive.",
+    "howto": [
+      "Use the left and right arrow keys to steer your sled.",
+      "Press the up arrow key to jump over obstacles in your path.",
+      "Dodge pine trees, dropping ice, boulders, and rolling snowballs.",
+      "Collect gift boxes along the slope to unlock new sled designs.",
+      "Survive as long as possible to push your score higher."
+    ],
+    "faq": [
+      {
+        "q": "Is Slope Rider free to play?",
+        "a": "Yes — Slope Rider runs in your browser for free, with no download, install, or account needed."
+      },
+      {
+        "q": "Does Slope Rider work on mobile?",
+        "a": "Yes. The game responds to taps as well as arrow-key input, so it plays on phones and tablets as well as desktop."
+      },
+      {
+        "q": "How do I get a higher score in Slope Rider?",
+        "a": "Keep your sled near the center of the slope so you have room to react in either direction, and don't detour for a gift box that puts you in an obstacle's path."
+      }
+    ],
+    "richContent": "<h2>Slope Rider – Play Online for Free</h2><p>Slope Rider drops you into a snowy forest on a sled that never slows down, daring you to survive as long as possible against a slope that keeps changing under you. The goal couldn't be simpler — dodge everything in your way and rack up the highest score you can — but the execution takes sharper reflexes the longer a run goes on.</p><h3>What Is Slope Rider?</h3><p>Slope Rider is an endless sledding game set across breathtaking winter scenery: dense pine forests, icy terrain, and slopes that never repeat the same way twice. Your sled moves forward automatically at high speed, so your only real job is steering it away from danger.</p><p>The slope is packed with hazards — pine trees standing in tight clusters, ice dropping unpredictably, ice-capped boulders, and rolling snowballs picking up speed as they go. There's no way to stop or slow down, which means every obstacle has to be handled with steering and jumping, not caution.</p><h3>How to Play Slope Rider</h3><p>Steer with the left and right arrow keys, and use the up arrow key to jump over anything you can't dodge sideways. That's the entire control scheme — the challenge comes from applying it fast enough and early enough.</p><p>Gift boxes are scattered along the slope and unlock new sleds when collected. They're a nice bonus, but grabbing one that sits directly next to an obstacle is rarely worth the risk once the pace picks up.</p><h3>Why Slope Rider Is Worth Playing</h3><p>What makes Slope Rider stick is how directly your score reflects your improvement. A run that ends after a few seconds on your first attempt can stretch into a much longer one once you start recognizing obstacle patterns and reacting a beat sooner. The scenery changes constantly too, so even a long run rarely feels repetitive.</p><h3>Tips for Playing Slope Rider</h3><ul><li><strong>Stay centered.</strong> A sled near the middle of the slope has the most room to react either direction.</li><li><strong>Don't chase every gift.</strong> If a gift is tucked next to a boulder or tree, it's usually not worth the detour.</li><li><strong>React early, not late.</strong> Waiting until an obstacle is close cuts your reaction window down to almost nothing.</li></ul><h3>Play Slope Rider Online</h3><p>Ready to carve down the mountain? Jump into Slope Rider, dodge everything the slope throws at you, and see what score you can put up.</p>"
+  },
+  {
+    "slug": "slope-rider-3d",
+    "title": "Slope Rider 3D",
+    "genre": "Racing",
+    "tags": ["Racing", "Sledding", "Endless Runner", "Single Player"],
+    "gameDir": "",
+    "indexFile": "",
+    "embedUrl": "https://azgames.io/slope-rider-3d.embed",
+    "domain": "",
+    "colors": {
+      "accent": "#7dd3fc",
+      "accent2": "#a78bfa"
+    },
+    "cardGradient": ["#0369a1", "#7c3aed"],
+    "initial": "SL3",
+    "image": "slope-rider-3d.png",
+    "seo": {
+      "metaDescription": "Play Slope Rider 3D online for free. Ride ever-changing 3D icy slopes, dodge trees, logs, and gaps, and unlock 20+ sleds in Normal or Hard mode.",
+      "ogImage": ""
+    },
+    "rating": {
+      "value": 4.3,
+      "count": 4000
+    },
+    "released": "",
+    "controls": "Arrow Keys",
+    "about": "Slope Rider 3D is the sequel to Slope Rider, rebuilt with enhanced 3D visuals, fog effects, and new terrain to ride through. Steer your sled down an endless icy course, dodging trees, logs, gaps, and cliffs while collecting gift boxes toward more than 20 unlockable sleds. Choose Normal mode for a steadier ride or Hard mode when you're ready for the course to fight back harder.",
+    "howto": [
+      "Use the arrow keys to steer your sled left and right.",
+      "Dodge trees, logs, gaps, cliffs, and narrow paths as the fog rolls in.",
+      "Collect gift boxes to work toward 20+ unlockable sleds.",
+      "Pick Normal mode for a standard run or Hard mode for tougher obstacle density.",
+      "Keep your line tight — speed and difficulty both increase the longer you survive."
+    ],
+    "faq": [
+      {
+        "q": "Is Slope Rider 3D free to play?",
+        "a": "Yes — Slope Rider 3D runs in your browser for free, with no download, install, or account needed."
+      },
+      {
+        "q": "Does Slope Rider 3D work on mobile?",
+        "a": "Yes. The game responds to taps as well as arrow-key input, so it plays on phones and tablets as well as desktop."
+      },
+      {
+        "q": "What's different between Normal and Hard mode in Slope Rider 3D?",
+        "a": "Hard mode packs obstacles closer together and ramps up the pace faster, so it suits players who've already got comfortable with Normal mode's timing."
+      }
+    ],
+    "richContent": "<h2>Slope Rider 3D – Play Online for Free</h2><p>Slope Rider 3D takes everything that made the original Slope Rider work and rebuilds it with sharper 3D visuals, fog effects, and fresh terrain. The core idea hasn't changed — ride an endless icy slope, dodge everything in your path, and go as far as you can — but the added atmosphere and a proper Hard mode give it more to chew on than a straightforward reflex test.</p><h3>What Is Slope Rider 3D?</h3><p>Slope Rider 3D is a fast-paced, reflex-based endless runner where you ride down ever-changing 3D slopes, dodging trees, logs, gaps, and cliffs while collecting gift boxes along the way. As the sequel to Slope Rider, it adds environmental touches like rolling fog and new terrain types, plus a proper Hard mode for players who've already mastered the basics.</p><p>Speed and difficulty both climb the longer a run lasts, so a slope that felt manageable early on can turn into a genuine test of reflexes by the time you're a minute or two in.</p><h3>How to Play Slope Rider 3D</h3><p>Steer with the arrow keys — that's the entire control scheme. The challenge is reading the terrain fast enough to react before an obstacle is already on top of you, especially once fog starts limiting how far ahead you can see clearly.</p><p>Gift boxes scattered along the slope go toward unlocking more than 20 sleds, each with its own look. Grabbing them is optional, and skipping a risky one is often the smarter move once the pace has picked up.</p><h3>Normal vs. Hard Mode</h3><p>Normal mode gives you a steadier pace and more forgiving obstacle spacing, making it the better starting point if you're new to the game. Hard mode packs obstacles closer together and speeds up the difficulty curve, so it's built for players who already have a feel for the steering and jump timing from Normal runs.</p><h3>Tips for Playing Slope Rider 3D</h3><ul><li><strong>Start on Normal.</strong> Learn the obstacle types and your reaction timing before jumping into Hard mode.</li><li><strong>Watch for fog.</strong> Reduced visibility means committing to your line earlier rather than waiting to see exactly what's ahead.</li><li><strong>Be selective with gifts.</strong> Twenty-plus sleds is a lot to unlock, but not every gift box is worth the detour.</li></ul><h3>Play Slope Rider 3D Online</h3><p>Ready for the next slope? Jump into Slope Rider 3D, pick your mode, and see how far you can ride before the mountain catches up with you.</p>"
+  }
+]
