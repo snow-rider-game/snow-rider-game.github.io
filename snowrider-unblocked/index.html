@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <title>Snow Rider 3D</title>
+
+    <link rel="stylesheet" href="./TemplateData/style.css">
+</head>
+
+<body>
+    <div id="gameContainer" style="width: 100vw; height: 100vh;"></div>
+
+    <script src="./TemplateData/UnityProgress.js"></script>
+    <script src="./Build/UnityLoader.js"></script>
+
+    <script>
+    var gameInstance = UnityLoader.instantiate(
+        "gameContainer",
+        "./Build/SnowRider3D-gd-1.json",
+        {
+            onProgress: UnityProgress,
+            Module: {
+                onRuntimeInitialized: function () {
+                    UnityProgress(gameInstance, "complete");
+                }
+            }
+        }
+    );
+    </script>
+</body>
+</html>

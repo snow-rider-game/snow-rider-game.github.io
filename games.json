@@ -4,10 +4,9 @@
     "title": "Snow Rider 3D",
     "genre": "Racing",
     "tags": ["Racing", "Sledding", "Christmas", "Single Player"],
-    "gameDir": "",
-    "indexFile": "",
-    "embedUrl": "https://html5.gamedistribution.com/3b79a8537ebc414fb4f9672a9b8c68c8/",
-    "embedReferrerParam": "gd_sdk_referrer_url",
+    "gameDir": "snowrider-unblocked",
+    "indexFile": "index.html",
+    "embedUrl": "",
     "domain": "",
     "colors": {
       "accent": "#38bdf8",
